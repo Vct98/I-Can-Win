@@ -1,1 +1,4 @@
 RR name "I-Can-Win" was changed to "Practical Tasks (PrcTasks)"
+
+1. Github
+Settings-> Repository name-> Rename
