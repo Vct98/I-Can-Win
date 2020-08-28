@@ -1,4 +1,7 @@
 RR name "I-Can-Win" was changed to "Practical Tasks (PrcTasks)"
 
-1. Github
-Settings-> Repository name-> Rename
+1. RR (Github)
+Settings-> Repository name-> Rename (PrcTasks)
+
+2.LR
+git remote set-url origin https://github.com/<Me>/<PrcTasks>.git
